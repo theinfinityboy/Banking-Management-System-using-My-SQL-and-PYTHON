@@ -1,4 +1,3 @@
-from ast import While
 from codecs import charmap_build
 from curses.ascii import isalpha, isdigit
 import datetime  as date
