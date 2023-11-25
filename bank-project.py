@@ -3,7 +3,7 @@ from codecs import charmap_build
 from curses.ascii import isalpha, isdigit
 import datetime  as date
 from distutils.log import error
-from logging import exception, raiseExceptions
+from logging import exception, raiseException
 from sqlite3 import IntegrityError
 SpecialSym =['$', '@', '#', '%']
 
